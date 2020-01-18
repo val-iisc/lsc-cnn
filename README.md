@@ -86,6 +86,7 @@ Run the following code to dump the dataset for `lsc-cnn`
 --dataset = parta / ucfqnrf / partb
 --gpu = GPU number
 --epochs = Number of epochs to train. [For QNRF set --epochs=50]
+--patches = Number of patches to crop per image [For QNRF use --patches=30, for other crowd counting dataset default parameter --patches=100 works.]
 ```
 
 ## Testing
