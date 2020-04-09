@@ -4,11 +4,11 @@ This repository is the pytorch implementation for the crowd counting model, LSC-
 
 If you find this work useful in your research, please consider citing the paper:
 ```
-@article{LSCCNN19,
-    Author = {Sam, Deepak Babu and Peri, Skand Vishwanath and Mukuntha .N .S ,  and Kamath, Amogh and Babu, R. Venkatesh},
+@article{LSCCNN20,
+    Author = {Sam, Deepak Babu and Peri, Skand Vishwanath and Narayanan Sundararaman, Mukuntha,  and Kamath, Amogh and Babu, R. Venkatesh},
     Title = {Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection},
-    Journal = {arXiv:1906.07538},
-    Year = {2019}
+    Journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    Year = {2020}
 }
 ```
 # Requirements

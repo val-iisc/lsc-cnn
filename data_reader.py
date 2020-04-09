@@ -1,6 +1,6 @@
 """
 data_reader.py: code to use crowd counting datasets for training and testing.
-Authors       : dbs & svp
+Authors       : dbs, mns, svp
 """
 
 

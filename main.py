@@ -1,6 +1,6 @@
 """
 main.py: Main code to drive LSC-CNN 
-Authors       : svp & dbs
+Authors       : svp, mns, dbs
 """
 
 import argparse
