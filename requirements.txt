@@ -8,5 +8,5 @@ scipy==1.0.0
 sklearn
 torch==0.4.1
 torchvision==0.2.0
-numpy==1.15.4
+numpy==1.22.0
 tqdm==4.19.4
